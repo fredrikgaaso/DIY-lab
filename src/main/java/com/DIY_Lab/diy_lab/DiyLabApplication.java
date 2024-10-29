@@ -8,6 +8,7 @@ public class DiyLabApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DiyLabApplication.class, args);
+		//dasda
 	}
 
 }
