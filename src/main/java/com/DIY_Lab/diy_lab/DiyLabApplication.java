@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DiyLabApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DiyLabApplication.class, args);
-		//dasda
+		SpringApplication.run(.class, args);
+		
 	}
 
 }
